@@ -21,7 +21,8 @@ An excellent example of a regular bike encroaching on the cargo market. Velo de 
 
 **AVS+** was expected and teased prior. Bobike was already showing off versions of their Go Maxi workhorse seat with AVS+.  While I love AVS to bits (it may well be my favorite system), use of AVS+ is not as simple and graceful as regular AVS. Part of that, of course, is by necessity, all the high load systems require a double-action unlocking mechanism, lest some careless fidgeting sends a child flying. Implementation of a lock is handled very well on AVS+.
 ![A Bobike Go Maxi seat, the rack interface is the new AVS+ standard](images/avsplus.jpg)
-xclusive for the time being, the accessories of course won't. Costs are higher with local production, but manufacturers are increasingly willing to pay a premium for parts with a lower CO2 bill and steadier supply chain.  
+
+The real surprise was Hebie/Racktime. The good people of Münster are going all in, tying the system to an entirely new brand **"Carl&Marta"**. Core of the brand are new racks, made in Germany, but also bags and childseats to go with them. The racks will be OEM exclusive for the time being, the accessories of course won't. Costs are higher with local production, but manufacturers are increasingly willing to pay a premium for parts with a lower CO2 bill and steadier supply chain.  
 ![A prototype rack. Spraypaint is peeling in some areas](images/carlundmartha1.jpg)
 If this looks like a racktime Snap-It 2.0 with two grooves filed in, that's because that's what the prototype essentially is. The grroves don't serve a functional purpose and are mostly there to prevent use of high-load accessories with racks that are not rated for them.
 ![A Urban Ikki child seat with the new heavy duty snapit interface](images/carlundmartha2.jpg)
