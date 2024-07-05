@@ -31,4 +31,4 @@ In terms of accessories they were showing off two trunkbags, a stylish handbag t
 ![The Carl&Marta Logo above a mannequin, it kinda looks like a geometric rose.](images/carlundmartha4.jpg)
 I think the logo kinda looks like the [Carpenter Brut](https://carpenterbrut.bandcamp.com) one.
 
-It's definitely going to be an uphill battle for Racktime and AVS to get even with MIK, one which will be fought in the fields of OEM spec. Besides pricing and licensing fees I can imagine that the size and supply of the accessories ecosystem may ultimately tip the scales. Decisively? Unlikely. Within the Non-HD space there are 6 or more systems already existing in parallel already, so I expect the space to stay heterogenous.
+It's definitely going to be an uphill battle for Racktime and AVS to get even with MIK, one which will be fought in the fields of OEM spec. Besides pricing and licensing fees I can imagine that the size and supply of the accessories ecosystem may ultimately tip the scales. Decisively? Unlikely. Within the Non-HD space there are 6 or more systems already existing in parallel already, so I expect things to stay heterogenous.
