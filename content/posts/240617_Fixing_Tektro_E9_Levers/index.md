@@ -6,10 +6,10 @@ draft = false
 
 In most regards Tektro's first groupset, the E9, has been a mature and excellent product, especially for a company so new to the field of shifting. Well thought out details, a good gearing selection, and shiftfeel that eclipses both the old Shimano Alivio and new CUES U4000 9-speed groupsets.
 
-"Most" however is doing a lot of heavy lifting. People familiar with the groupset may already know what I'm alluding to, it's the downshift action. Unlike with Shimano, where the downshift lever works by pull (and push, depending on the model), the Tektro lever is push only. This wouldn't be bad, were it not for the fact that *pulling on it can brick the shifter*. The warning sticker is a good idea, however in the hands of customers (and in one instance a mechanic), it has not enjoyed a flawless success rate.
+"Most" however is doing a lot of heavy lifting. People familiar with the groupset may already know what I'm alluding to, it's the upshift action. Unlike with Shimano, where the upshift lever works by pull (and push, depending on the model), the Tektro lever is push only. This wouldn't be bad, were it not for the fact that *pulling on it can brick the shifter*. The warning sticker is a good idea, however in the hands of customers (and in one instance a mechanic), it has not enjoyed a flawless success rate.
 
 ![borked](images/borked.webp)
-(I did that one on purpose)
+(I did that one on purpose. If you, too, want to reproduce the issue shift all the way up and then pull fairly hard on the upshift lever.)
 
 The lever can be unbricked. It's not an entirely smooth and easy process but once you know *how*, it is not too daunting. Since I have not found any documentation describing the process, I figured it was high time to do so.
 
@@ -47,6 +47,6 @@ Test the guts for correct function, then shift all the way up into the highest g
 
 ![guts4](images/guts4.webp)
 
-Reinstall the shifting mechanism and put the lid back on, then screw the barrel adjuster back in. Swing the whole assembly back into position and reitghten the 4mm hex bolt
+Reinstall the shifting mechanism and put the lid back on, then screw the barrel adjuster back in. Swing the whole assembly back into position and retighten the 4mm hex bolt
 
 Pull the cable through to the derailleur, install as normal adjust tension, and done. Keep in mind that cable tension will usually be a hair lower than it is with other systems.

@@ -7,21 +7,28 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Arno Wolfgang</copyright>
-    <lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/archie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eurobike 2024, Part I: Clash of the Carriers</title>
+      <link>http://localhost:1313/archie/posts/240703_eurobike_part_i/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archie/posts/240703_eurobike_part_i/</guid>
+      <description>It&amp;rsquo;s summer again and that means the world of cycling congregates in Germany for Eurobike.&#xA;The switch from Friedrichshafen to Frankfurt has been very welcome on my end, Lake Constance may be nice but in many regards it was what Berliners call &amp;ldquo;JWD&amp;rdquo; (janz weit draußen, way out). Every year the Lake Constance highway would be inevitably clogged on sunday night by the collective masses trying to get to Frankfurt.</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/archie/about/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/archie/about/</guid>
-      <description>Hi, welcome to my website, I&amp;rsquo;m Arno Wolfgang, bicycle mechanic by trade, bicycle salesperson by circumstance.&#xA;My core areas of expertise at the moment revolves around what you call Trekking bikes round these parts, hybrid bikes elsewhere, E and non-E. The boring stuff if you will (at least to an outsider, they can be plenty interesting). The everyday bikes.&#xA;I got my start in the industry in 2014, with an apprenticeship at Velotraum near Stuttgart, eventually finishing in early 2017 at the top of my class.</description>
+      <description>Hi, welcome to my website, I&amp;rsquo;m Arno Wolfgang, bicycle mechanic by trade, bicycle salesperson by circumstance.&#xA;My core areas of expertise at the moment revolves around what you call Trekking bikes round these parts, hybrid bikes elsewhere, E and non-E. The boring stuff if you will (at least at first glance, they can be plenty interesting). The everyday bikes.&#xA;I got my start in the industry in 2014, with an apprenticeship at Velotraum near Stuttgart, eventually finishing in early 2017 at the top of my class.</description>
     </item>
     <item>
       <title>Fixing stuck Tektro E9 Shifters</title>
       <link>http://localhost:1313/archie/posts/240617_fixing_tektro_e9_levers/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/archie/posts/240617_fixing_tektro_e9_levers/</guid>
-      <description>In most regards Tektro&amp;rsquo;s first groupset, the E9, has been a mature and excellent product, especially for a company so new to the field of shifting. Well thought out details, a good gearing selection, and shiftfeel that eclipses both the old Shimano Alivio and new CUES U4000 9-speed groupsets.&#xA;&amp;ldquo;Most&amp;rdquo; however is doing a lot of heavy lifting. People familiar with the groupset may already know what I&amp;rsquo;m alluding to, it&amp;rsquo;s the downshift action.</description>
+      <description>In most regards Tektro&amp;rsquo;s first groupset, the E9, has been a mature and excellent product, especially for a company so new to the field of shifting. Well thought out details, a good gearing selection, and shiftfeel that eclipses both the old Shimano Alivio and new CUES U4000 9-speed groupsets.&#xA;&amp;ldquo;Most&amp;rdquo; however is doing a lot of heavy lifting. People familiar with the groupset may already know what I&amp;rsquo;m alluding to, it&amp;rsquo;s the upshift action.</description>
     </item>
   </channel>
 </rss>
