@@ -5,7 +5,7 @@ draft = false
 +++
 
 It's summer again and that means the world of cycling congregates in Germany for Eurobike.  
-The switch from Friedrichshafen to Frankfurt has been very welcome on my end, Lake Constance may be nice but in many regards it was what Berliners call "JWD" (janz weit draußen, way out). Every year the Lake Constance highway would be inevitably *clogged* on sunday night by the collective masses trying to get to Frankfurt.  
+The switch from Friedrichshafen to Frankfurt has been very welcome on my end, Lake Constance may be nice but in many regards it was what Berliners call "JWD" (janz weit draußen, way out). Every year the Lake Constance highway would be inevitably *clogged* on sunday night by the collective masses trying to get back to Frankfurt and out of the country.  
 It thus seemed only prudent to move the show to where everybody wanted to be anyhow.  
 I'm staying the full 3 vendor days and figured I might as well add my observations and opinions to the deluge of those already out there.
 
@@ -27,7 +27,7 @@ The real surprise was Hebie/Racktime. The good people of Münster are going all 
 If this looks like a racktime Snap-It 2.0 with two grooves filed in, that's because that's what the prototype essentially is. The grroves don't serve a functional purpose and are mostly there to prevent use of high-load accessories with racks that are not rated for them.
 ![A Urban Ikki child seat with the new heavy duty snapit interface](images/carlundmartha2.jpg)
 The seat is a rebranded Urban Ikki, something that I expect will stay the status quo for a bit. Action felt decent on the 3D-printed prototype, which leaves me very optimistic about the production version.  
-In terms of accessories they were showing off two trunkbags, a stylish handbag type with roll closure that kinda looks like a paper bag, and a backpack that snaps into the top of the rack, much like the Atranvelo PENDING. Even being under the new brand, I expect these to be compatible with regular Snap-it 2.0 racks.
+In terms of accessories they were showing off two trunkbags, a stylish handbag type with roll closure that kinda looks like a paper bag, and a backpack that snaps into the top of the rack, somewhat like the Atranvelo Metro Messenger. Even being under the new brand, I expect these to be compatible with regular Snap-it 2.0 racks.
 ![The Carl&Marta Logo above a mannequin, it kinda looks like a geometric rose.](images/carlundmartha4.jpg)
 I think the logo kinda looks like the [Carpenter Brut](https://carpenterbrut.bandcamp.com) one.
 
