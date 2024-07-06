@@ -9,7 +9,7 @@ The switch from Friedrichshafen to Frankfurt has been very welcome on my end, La
 It thus seemed only prudent to move the show to where everybody wanted to be anyhow.  
 I'm staying the full 3 vendor days and figured I might as well add my observations and opinions to the deluge of those already out there.
 
-One of the quote unquote trends of the show sewasemed to be high-load versions of carrier snap-in systems.  
+One of the quote unquote trends of the show seemed to be high-load versions of carrier snap-in systems.  
 Longtail cargo bikes are getting ever more popular (and certain normal bikes are also getting ever more cargobike-y), so solutions for rapid installation and removal of child seats and the like are in high demand.  
 While a whole host of systems for baskets&co already exist, these systems are usually not intended for the high loads that a child for example places on a mount.  
 Market leader and only option thus far has been **MIK HD**, derived from MIK (who'da thunk). Common across all of these systems is their downward compatibility. Any MIK accessory will also fit a MIK HD rack, but not vice versa. Eurobike 2024 shows companies are clearly not content to surrender that market to MIK altogether, with two established manufacturers throwing their hat into the ring.
@@ -29,6 +29,6 @@ If this looks like a racktime Snap-It 2.0 with two grooves filed in, that's beca
 The seat is a rebranded Urban Ikki, something that I expect will stay the status quo for a bit. Action felt decent on the 3D-printed prototype, which leaves me very optimistic about the production version.  
 In terms of accessories they were showing off two trunkbags, a stylish handbag type with roll closure that kinda looks like a paper bag, and a backpack that snaps into the top of the rack, somewhat like the Atranvelo Metro Messenger. Even being under the new brand, I expect these to be compatible with regular Snap-it 2.0 racks.
 ![The Carl&Marta Logo above a mannequin, it kinda looks like a geometric rose.](images/carlundmartha4.jpg)
-I think the logo kinda looks like the [Carpenter Brut](https://carpenterbrut.bandcamp.com) one.
+I think the Carl&Marta logo kinda looks like the [Carpenter Brut](https://carpenterbrut.bandcamp.com) one. Carpenter&Marta?
 
 It's definitely going to be an uphill battle for Racktime and AVS to get even with MIK, one which will be fought in the fields of OEM spec. Besides pricing and licensing fees I can imagine that the size and supply of the accessories ecosystem may ultimately tip the scales. Decisively? Unlikely. Within the Non-HD space there are 6 or more systems already existing in parallel already, so I expect things to stay heterogenous.
