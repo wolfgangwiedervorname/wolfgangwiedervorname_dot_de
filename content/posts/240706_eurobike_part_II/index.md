@@ -35,7 +35,7 @@ In the other direction there is the Nordic MR10 and MR10+. The housing looked id
 ![9 Lights from Herrmans](images/herrmans1.jpg)
 
 The MR10+ is probably the product that piqued my interest the most at Herrmans' booth, it's a bit of a shame neither MR10 nor MR10+ will come in dynamo versions (parallels to the Briq-S premium all around). I can only speculate as to why, the 4W powerdraw of the MR10 is well within the envelope of a generator hub. The 9W for the high beams are a taller ask for sure though.  
-Also new from Herrmans: the Nordic Energy. At it's core its a 5000mAh power bank, what sets it apart are the ability to easily mount on a bike with velcro straps and being able to power every single e-bike light Herrmans currently produces. The icing on the cake would be a rectifying circuit to allow charging via dynamo DC power, but it's a really neat idea nonetheless.
+Also new from Herrmans: the Nordic Energy. At it's core it's a 5000mAh power bank, what sets it apart are the ability to easily mount on a bike with velcro straps and being able to power every single e-bike light Herrmans currently produces. The icing on the cake would be a rectifying circuit to allow charging via dynamo DC power, but it's a really neat idea nonetheless.
 
 ![3 lights from Herrmans hooked up to power banks, below are 3 rear lights](images/herrmans2.jpg)
 
