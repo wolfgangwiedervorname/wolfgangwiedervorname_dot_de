@@ -1,7 +1,7 @@
 +++
 title = 'Eurobike 2024 Part III: Thoughts on the Schwalbe Clik valve and everything else I forgot'
 date = 2024-07-08T14:19:26+02:00
-draft = true
+draft = false
 +++
 
 This is the last part of the eurobike trilogy, all the leftovers, it's gonna be a bit long.
