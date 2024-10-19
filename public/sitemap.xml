@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/240708_eurobike_part_iii/</loc>
-    <lastmod>2024-07-08T14:19:26+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-07-08T14:19:26+02:00</lastmod>
+    <lastmod>2024-09-13T15:07:38+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/241013maxcycles_2024/</loc>
+    <lastmod>2024-09-13T15:07:38+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-08T14:19:26+02:00</lastmod>
+    <lastmod>2024-09-13T15:07:38+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/240706_eurobike_part_ii/</loc>
-    <lastmod>2024-07-06T22:11:18+02:00</lastmod>
+    <loc>http://localhost:1313/posts/240708_eurobike_part_iii/</loc>
+    <lastmod>2024-08-07T14:19:26+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/240703_eurobike_part_i/</loc>
     <lastmod>2024-07-05T00:00:00+00:00</lastmod>
@@ -22,6 +22,9 @@
   </url><url>
     <loc>http://localhost:1313/posts/240617_fixing_tektro_e9_levers/</loc>
     <lastmod>2024-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/240706_eurobike_part_ii/</loc>
+    <lastmod>2024-06-07T22:11:18+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

@@ -1,6 +1,6 @@
 +++
 title = 'Eurobike 2024 Part III: Thoughts on the Schwalbe Clik valve and everything else I forgot'
-date = 2024-07-08T14:19:26+02:00
+date = 2024-08-07T14:19:26+02:00
 draft = false
 +++
 
@@ -43,7 +43,7 @@ TRP and Tektro are ramping things up. Not content with slowly eating Shimano's p
 ![The new TRP Vistar group in it's Road configuration](images/trp3.jpg)
 Calling it tailor-made for the Classified would be underselling it though. The real kicker in all of this is that *TRP is building their electronic shifting as an open standard*. Anyone who wants in on it can. Pinion we already saw last year when the HyWire brifters first showed up but Rohloff (IGH), Kindshock (dropper posts) and even Bosch (e-bike motors) have already come on board. Bosch plans to offer similar functionality to what Shimano is already doing with Freeshift/Autoshift on Steps+Di2 setups, which is to say automatic or semi automatic derailleur shifting.  
 I sadly didn't get to ask about non-Classified electronic derailleur drivetrains but I did finally manage to get hands-on with the HyWire brifters on the test loop, in combination with a Pinion gearbox. I came back thoroughly impressed, shiftfeel and ergonomics finally deliver on what I always wanted from Rohloff dropbar solutions for a decade but never got.  
-Speaking of Rohloff and TRP they were already showing a MiTech gravel e-bike with just that combo at Rohloff's booth. This wasn't actually the first time I saw that bike, that was in Düsseldorf earlier this year but at the time I assumed it was a hack of sorts on MiTech's part. The news from TRP suddenly made everything click in my head. I asked Rohloff about the prospects of their electronically actuated E14 coming to non-e-bikes also at some point. The intent/desire is definitely there, they just haven't figured out where to put the battery yet. No comment.
+Speaking of Rohloff and TRP they were already showing a MiTech gravel e-bike with just that combo at Rohloff's booth. This wasn't actually the first time I saw that bike, that was in Düsseldorf earlier this year, but at the time I assumed it was a hack of sorts on MiTech's part. The news from TRP suddenly made everything click in my head. I asked Rohloff about the prospects of their electronically actuated E14 coming to non-e-bikes also at some point. The intent/desire is definitely there, they just haven't figured out where to put the battery yet. No comment.
 ![A MiTech e-gravel with a Bosch motor and a Rohloff e14, picture from earlier this year](images/e14.jpg)
 (This was from Düsseldorf)
 
