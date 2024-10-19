@@ -1,6 +1,6 @@
 +++
 title = 'Eurobike 2024 Part III: Thoughts on the Schwalbe Clik valve and everything else I forgot'
-date = 2024-07-08T14:19:26+02:00
+date = 2024-08-07T14:19:26+02:00
 draft = true
 +++
 
