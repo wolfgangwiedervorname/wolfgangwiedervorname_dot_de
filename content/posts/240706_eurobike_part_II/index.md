@@ -1,6 +1,6 @@
 +++
 title = 'Eurobike 2024, Part II: A Blaze in the Northern Sky'
-date = 2024-06-07T22:11:18+02:00
+date = 2024-07-07T22:11:18+02:00
 draft = false
 +++
 
