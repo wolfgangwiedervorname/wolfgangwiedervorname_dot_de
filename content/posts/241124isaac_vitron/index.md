@@ -11,7 +11,7 @@ At the time I already knew I could not run the stock stem for the customer's pos
 
 ![A picture of a Token S-Box implementation](images/s-box.png) A token S-Box setup, note the normal spacers.
 
-When the bike arrived I found my optimism dashed. The MY24 Vitron uses some variant of the Token's "C-Box" system, which means a custom stem and custom spacers if you don't want the whole thing to look like a trainwreck. Said custom stem does not come in 80mm/17°+ because why the hell would it, and Isaac was either unable or unwilling to provide much help, let alone *any* different stem from the one that came with the bike, not that I think it would have mattered. Cables also ran through the handlebars, also not terribly relevant since the bike was going to be converted to Di2 also (different story). And while Isaac was not a helpful avenue, neither was Token, who don't really have an aftermarket distribution to speak of, at least not in Europe nor any other support. No S-Box parts for me.
+When the bike arrived I found my optimism dashed. The MY24 Vitron uses some variant of the Token's "C-Box" system, which means a custom stem and custom spacers if you don't want the whole thing to look like a trainwreck. Said custom stem does not come in 80mm/17°+ because why the hell would it, and Isaac was either unable or unwilling to provide much help, let alone provide *any* different stem from the one that came with the bike, not that I think it would have mattered. Cables also ran through the handlebars, also not terribly relevant since the bike was going to be converted to di2 too (different story). And while Isaac was not a helpful avenue, neither was Token, who don't really have an aftermarket distribution to speak of, at least not in Europe nor any other support. No S-Box parts for me.
 
 ![The C-Box on a Vitron](images/c_box.jpg) My coworker's Vitron, he has no qualms about the stem, which means we can view the original configuration.
 
@@ -39,4 +39,4 @@ Installation worked like a charm and voila, a steeper stem to get the customer t
 
 ![The installation is complete, stem cap etc](images/dcr2.jpg)
 
-MCG's in-house brand Procraft once again proves to be an invaluable ally to ergonomics. I have yet to find somebody else readily offering stems in 10mm increments in 6°, 17° and 25° angles.
+MCG's in-house brand Procraft once again proves to be an invaluable ally to ergonomics. I have yet to find somebody else readily offering stems in 10mm increments in 6°, 17° and 25° angles. And at wonderfully cheap prices no less.
