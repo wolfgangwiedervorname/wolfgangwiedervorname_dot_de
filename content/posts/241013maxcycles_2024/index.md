@@ -6,7 +6,7 @@ draft = false
 
 Two occasions usually bring me to the lands around Münster, both are bikes. I always greatly enjoy my time there, gently rolling hills, red brick houses dotted btween, time seems to pass a hair slower whenever I'm there.  
 Just a bit north of the city is Velo de Ville with their now massive facility, two factory halls, flagship store, offices et cetera. If one takes the train west, coupled with a small bike ride you end up at Maxcycles and their much more humble abode.  
-A lot less busy than Velo de Ville, a good chunk lighter, more attention to detail, but also a good chunk more expensive is how I'd describe them by comparison.  
+A lot less busy than Velo de Ville, the bikes a good chunk lighter, more attention to detail, but also a good chunk more expensive is how I'd describe them by comparison.  
 The time had come again in September for their in-house presentation, so I made a stopover on my way north to a wedding, to gaze at new models, discuss bikes and maybe have a few snacks.
 
 ![A well within a patch of trees](images/Brunnen.jpg) A well built by a local saint of sorts. I didn't get any pictures of the landscape so this will have to do.

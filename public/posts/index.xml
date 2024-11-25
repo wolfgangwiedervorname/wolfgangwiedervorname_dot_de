@@ -7,14 +7,21 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Arno Wolfgang</copyright>
-    <lastBuildDate>Fri, 13 Sep 2024 15:07:38 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 08:52:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hard fought freedom: how to use any stem on an MY24 Isaac Vitron</title>
+      <link>http://localhost:1313/posts/241124isaac_vitron/</link>
+      <pubDate>Sun, 24 Nov 2024 08:52:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/241124isaac_vitron/</guid>
+      <description>&lt;p&gt;A variety of factors recently lead to me sourcing an Isaac Vitron for a customer in September. The factors of a fitting geometry, really good price and it being a decent bike all coalesced.&lt;br&gt;&#xA;At the time I already knew I could not run the stock stem for the customer&amp;rsquo;s position, but I still filed the matter away with a certain naiveté. 2023 Models used the Token S-Box system and while the degree of integration looked higher in 2024 surely it couldn&amp;rsquo;t be that bad, right?&#xA;&lt;img src=&#34;images/s-box.png&#34; alt=&#34;A picture of a Token S-Box implementation&#34;&gt; A token S-Box setup, note the normal spacers.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>SX-Appeal: Maxcycles 2025</title>
       <link>http://localhost:1313/posts/241013maxcycles_2024/</link>
-      <pubDate>Fri, 13 Sep 2024 15:07:38 +0200</pubDate>
+      <pubDate>Sat, 19 Oct 2024 15:07:38 +0200</pubDate>
       <guid>http://localhost:1313/posts/241013maxcycles_2024/</guid>
-      <description>&lt;p&gt;Two occasions usually bring me to the lands around Münster, both are bikes. I always greatly enjoy my time there, gently rolling hills, red brick houses dotted btween, time seems to pass a hair slower whenever I&amp;rsquo;m there.&lt;br&gt;&#xA;Just a bit north of the city is Velo de Ville with their now massive facility, two factory halls, flagship store, offices et cetera. If one takes the train west, coupled with a small bike ride you end up at Maxcycles and their much more humble abode.&lt;br&gt;&#xA;A lot less busy than Velo de Ville, a good chunk lighter, more attention to detail, but also a good chunk more expensive is how I&amp;rsquo;d describe them by comparison.&lt;br&gt;&#xA;The time had come again in September for their in-house presentation, so I made a stopover on my way north to a wedding, to gaze at new models, discuss bikes and maybe have a few snacks.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Two occasions usually bring me to the lands around Münster, both are bikes. I always greatly enjoy my time there, gently rolling hills, red brick houses dotted btween, time seems to pass a hair slower whenever I&amp;rsquo;m there.&lt;br&gt;&#xA;Just a bit north of the city is Velo de Ville with their now massive facility, two factory halls, flagship store, offices et cetera. If one takes the train west, coupled with a small bike ride you end up at Maxcycles and their much more humble abode.&lt;br&gt;&#xA;A lot less busy than Velo de Ville, the bikes a good chunk lighter, more attention to detail, but also a good chunk more expensive is how I&amp;rsquo;d describe them by comparison.&lt;br&gt;&#xA;The time had come again in September for their in-house presentation, so I made a stopover on my way north to a wedding, to gaze at new models, discuss bikes and maybe have a few snacks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eurobike 2024 Part III: Thoughts on the Schwalbe Clik valve and everything else I forgot</title>
@@ -22,6 +29,13 @@
       <pubDate>Wed, 07 Aug 2024 14:19:26 +0200</pubDate>
       <guid>http://localhost:1313/posts/240708_eurobike_part_iii/</guid>
       <description>&lt;p&gt;This is the last part of the eurobike trilogy, all the leftovers, it&amp;rsquo;s gonna be a bit long.&lt;/p&gt;&#xA;&lt;p&gt;Schwalbe&amp;rsquo;s new valves were the talk of the show. In fact I cannot recall a single booth being quite as crowded (apart from Cosmic&amp;rsquo;s on wednesday night but they had margaritas and tacos at the time). Apparently they were giving out samples on wednesday but by the time I got there on thursday that practice had been halted, due to overwhelming demand. The good bits of info weren&amp;rsquo;t really at Schwalbe anyhow, it all seemed to get a bit lost in the marketing mishmash, the real scoop was at SKS, their partner for the pump heads.&lt;br&gt;&#xA;So let&amp;rsquo;s run down the observations:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eurobike 2024, Part II: A Blaze in the Northern Sky</title>
+      <link>http://localhost:1313/posts/240706_eurobike_part_ii/</link>
+      <pubDate>Sun, 07 Jul 2024 22:11:18 +0200</pubDate>
+      <guid>http://localhost:1313/posts/240706_eurobike_part_ii/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/dorkthrone.png&#34; alt=&#34;The cover of A Blaze in the Northern Sky but Fenriz holds a Briq-XL light&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you ask me, the two European titans of bike lighting right now are Herrmans and Busch&amp;amp;Müller. Both manage to create well designed lights for E-Bikes and dynamos with local production at scale and a pricepoint relevant to OEM use. While other manufacturers are also present in this market, I&amp;rsquo;ve enjoyed their products the most, at least as far as the mass market is concerned.&lt;br&gt;&#xA;Historically Herrmans has been the choice of the more value-minded product manager with Busch&amp;amp;Müller being the more premium choice, offering more well engineered optics and a better build. The past year or so however both companies have made forays into the other&amp;rsquo;s space and the result has been an incredible back and forth with great products releasing left and right.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eurobike 2024, Part I: Clash of the Carriers</title>
@@ -36,13 +50,6 @@
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/240617_fixing_tektro_e9_levers/</guid>
       <description>&lt;p&gt;In most regards Tektro&amp;rsquo;s first groupset, the E9, has been a mature and excellent product, especially for a company so new to the field of shifting. Well thought out details, a good gearing selection, and shiftfeel that eclipses both the old Shimano Alivio and new CUES U4000 9-speed groupsets.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Most&amp;rdquo; however is doing a lot of heavy lifting. People familiar with the groupset may already know what I&amp;rsquo;m alluding to, it&amp;rsquo;s the upshift action. Unlike with Shimano, where the upshift lever works by pull (and push, depending on the model), the Tektro lever is push only. This wouldn&amp;rsquo;t be bad, were it not for the fact that &lt;em&gt;pulling on it can brick the shifter&lt;/em&gt;. The warning sticker is a good idea, however in the hands of customers (and in one instance a mechanic), it has not enjoyed a flawless success rate.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Eurobike 2024, Part II: A Blaze in the Northern Sky</title>
-      <link>http://localhost:1313/posts/240706_eurobike_part_ii/</link>
-      <pubDate>Fri, 07 Jun 2024 22:11:18 +0200</pubDate>
-      <guid>http://localhost:1313/posts/240706_eurobike_part_ii/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/dorkthrone.png&#34; alt=&#34;The cover of A Blaze in the Northern Sky but Fenriz holds a Briq-XL light&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;If you ask me, the two European titans of bike lighting right now are Herrmans and Busch&amp;amp;Müller. Both manage to create well designed lights for E-Bikes and dynamos with local production at scale and a pricepoint relevant to OEM use. While other manufacturers are also present in this market, I&amp;rsquo;ve enjoyed their products the most, at least as far as the mass market is concerned.&lt;br&gt;&#xA;Historically Herrmans has been the choice of the more value-minded product manager with Busch&amp;amp;Müller being the more premium choice, offering more well engineered optics and a better build. The past year or so however both companies have made forays into the other&amp;rsquo;s space and the result has been an incredible back and forth with great products releasing left and right.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
