@@ -16,7 +16,7 @@ When the bike arrived I found my optimism dashed. The MY24 Vitron uses some vari
 ![The C-Box on a Vitron](images/c_box.jpg) My coworker's Vitron, he has no qualms about the stem, which means we can view the original configuration.
 
 Any sufficiently specialized online chatroom will have a guy who knows too much. In my usual bikechat that person is S.  
-S. understands bike handling better than most people who are paid to do so, has designed handlebars effectively pro bono and he is always suspiciously well informed not just on bike matters. We jokingly refer to him as our CIA handler sometimes, the fact that he lives in the Washington DC area only deepens those suspicious.  
+S. understands bike handling better than most people who are paid to do so, has designed handlebars effectively pro bono and he is always suspiciously well informed not just on bike matters. We jokingly refer to him as our CIA handler sometimes, the fact that he lives in the Washington DC area only deepens those suspicions.  
 S. is also very sharp in matters of headset cable routing and ever helpful, so we sat down and got to work.
 
 The lower portion of the headset could stay, we only really needed the top bit. IS52, 45/45° bearings, ideally available as bits and cable routing through the headset cover but *only* the headset cover.  
@@ -29,6 +29,7 @@ The documentation gives us all the individual part numbers we need and the drawi
 * DCR MICROSPACERS - HDDCRMS
 * S-DCR TOP COVER, 56 mm, Nylon, for 1.5” upper bearing - HDSDCRTC56
 * HEADSET TOP COVER, 46 mm, Alloy - HDTPA46N
+
 I immediately sat down and called German Deda distributor CCM-Sport, to see if I could get the pieces by themselves. To my delight I could, provided a bit of patience, they'd be added to the next shipment from Italy.
 
 Said patience duly excercised, the parts arrived about three weeks later.
