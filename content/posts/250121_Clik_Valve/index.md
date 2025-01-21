@@ -1,7 +1,7 @@
 +++
 title = 'Clik Valve at last: brief first impressions'
 date = 2025-01-21T01:26:21+01:00
-draft = true
+draft = false
 +++
 
 Schwalbe's launch of "their" new Valve didn't quite go to timeline. [Right after they showed it at eurobike](https://www.wolfgangwiedervorname.de/posts/240708_eurobike_part_iii/) I put in an order for a bunch and our first sampler arrived two weeks ago, bit of a jump from September.
