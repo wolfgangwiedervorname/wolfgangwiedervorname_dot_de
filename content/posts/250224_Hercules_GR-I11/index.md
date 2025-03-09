@@ -13,15 +13,14 @@ This is the exact same frame as the flatbar Edison series Hercules was selling a
 They were very much going to war with the army they had. The motor controller (and the bell hilariously) couldn't fit the drop bar diameter so they put one of those accessory mounts to put them *somewhere*, an adequate rigid fork couldn't be procured or was too much effort to procure, so on goes the common SR-Suntour suspension fork, although they did shell out for an airsprung one. It's the exact same motor setup too, Simplo 630Wh battery and a Shimano Steps EP8 motor.
 
 It is worth noting here that Shimano Di2 brifters are capable of controlling their Steps motors and this is a wonderful setup used for example by Giant on their also somewhat ill-fated but way more competently executed Revolt E+. Alas, this would have driven the already high-ish price tag of 4499€ (later 4899€) only higher.
-The most egregious sin however is the frame. Many E-bike frames already have infamously little thought given to rider position and equipping the already somewhat low effort Edison frame with drop-bars yields disaster.
 
-610mm effective toptube length *in the smallest size*. This by the way, barely scales, it just stays the same throughout the small sizes eventually growing to a generous 625mm in the largest size. Stack is massive, especially coupled with the Zecure stem adding another 50mm or so to the 625mm+ already present. A woefully ill-fitting geometry except for the tallest of people.
+The most egregious sin however is the frame. Many E-bike frames have infamously little thought given to rider position and equipping the already somewhat low effort Edison frame with drop-bars yields disaster. 610mm effective toptube length *in the smallest size*. This by the way, barely scales, it just stays the same throughout the small sizes eventually growing to a generous 625mm in the largest size. Stack is massive, especially coupled with the Zecure stem adding another 50mm or so to the 625mm+ already present. A woefully ill-fitting geometry except for the tallest of people.
 ![Geometry table of the bike](images/Geometry.png)
 Did I mention it comes as a wave frame yet?
 ![The Edison GR I-11 with a wave frame](images/GR-I11_Wave.png)
 I think the image speaks for itself. Can you believe nobody bought these?
 
-Last week my gave me the spec sheet and said "I just got a call from our Hercules rep, they're selling these things for a dime, how much will it cost us to convert these to flatbar and make them actually sellable". An MOQ of 6 gave us pause initially, in a year where we are trying to lower our stock more than anything, but the price was entirely too good to pass up and I got to work. It appeared Hercules really wanted that inventory gone.
+Last week my Boss gave me the spec sheet and said "I just got a call from our Hercules rep, they're selling these things for a dime, how much will it cost us to convert these to flatbar and make them actually sellable". An MOQ of 6 gave us pause initially, in a year where we are trying to lower our stock more than anything, but the price was entirely too good to pass up and I got to work. It appeared Hercules really wanted that inventory gone.
 
 Parts that were absolutely necessary:
 
@@ -33,7 +32,7 @@ Parts that were absolutely necessary:
 
 **Grips:** I spent too much time thinking here. I wanted something with at least a bit of wing but still reasonably cheap. Merida-Centurion-Germany in-house brand Procraft came through on this one with their Ergo Comp IIs. I have seen this exact mold being used by other manufacturers under different names, but it's a perfectly acceptable grip. Conveniently these come in brown also. I am quite fond of the dark-green+brown color scheme Hercules did and wanted to maintain it.
 
-Now for the part that was not necessary but I figured it would be wise:
+Now for the part that was not necessary but I figured would be wise:
 
 **Saddle:** The bike comes with a quite sporty Fizik Aidon which probably wouldn't sit well with the demographic I had in mind. Procraft fortunately offers a more city-bike-like saddle, in the exact shade of brown as the grips, unceremoniously titled "City II". This too is an OEM part I've seen elsewhere, but the brown is the exact same as the grips and surprisingly rare to find in this price class.
 
@@ -53,7 +52,7 @@ Mount for a front-rack on the headtube. Good stuff, especially for a 2022 model.
 
 ![Hercules front rack](images/Frontträger.jpg)
 
-Front light is inconsistent across sizing. 45s come with a quite nice Litemove SEC-110, the 49s spec the much cheaper feeling Fuxon FS-100 EB. Still not bad but a downgrade. In both cases the light cable is too short to move it from the bars to the front rack.
+Front light is inconsistent across sizing. 45s come with a nice Litemove SEC-110, the 49s spec the much cheaper feeling Fuxon FS-100 EB. Still not bad but a downgrade. In both cases the light cable is too short to move it from the bars to the front rack.
 
 Anyhow here's the result of it all, a better image will be here shortly:
 
