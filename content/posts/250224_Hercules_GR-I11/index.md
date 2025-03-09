@@ -14,7 +14,7 @@ They were very much going to war with the army they had. The motor controller (a
 
 It is worth noting here that Shimano Di2 brifters are capable of controlling their Steps motors and this is a wonderful setup used for example by Giant on their also somewhat ill-fated but way more competently executed Revolt E+. Alas, this would have driven the already high-ish price tag of 4499€ (later 4899€) only higher.
 
-The most egregious sin however is the frame. Many E-bike frames have infamously little thought given to rider position and equipping the already somewhat low effort Edison frame with drop-bars yields disaster. 610mm effective toptube length *in the smallest size*. This by the way, barely scales, it just stays the same throughout the small sizes eventually growing to a generous 625mm in the largest size. Stack is massive, especially coupled with the Zecure stem adding another 50mm or so to the 625mm+ already present. A woefully ill-fitting geometry except for the tallest of people.
+The most egregious sin however is the frame. Many E-bike frames have infamously little thought given to rider position and equipping the already somewhat low effort Edison frame with dropbars yields disaster. 610mm effective toptube length *in the smallest size*. This by the way, barely scales, it just stays the same throughout the small sizes eventually growing to a generous 625mm in the largest size. Stack is massive, especially coupled with the Zecure stem adding another 50mm or so to the 625mm+ already present. A woefully ill-fitting geometry except for the tallest of people.
 ![Geometry table of the bike](images/Geometry.png)
 Did I mention it comes as a wave frame yet?
 ![The Edison GR I-11 with a wave frame](images/GR-I11_Wave.png)
