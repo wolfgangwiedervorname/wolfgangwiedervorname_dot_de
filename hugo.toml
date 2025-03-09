@@ -9,7 +9,8 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 
-paginate=3 # articles per page
+[pagination]
+	pagerSize = 3 # articles per page
 
 [params]
 	mode="toggle" # color-mode → light,dark,toggle or auto

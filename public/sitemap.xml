@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/250121_clik_valve/</loc>
-    <lastmod>2025-01-21T01:26:21+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-21T01:26:21+01:00</lastmod>
+    <lastmod>2025-01-23T03:37:20+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/250224_hercules_gr-i11/</loc>
+    <lastmod>2025-01-23T03:37:20+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-23T03:37:20+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/250121_clik_valve/</loc>
     <lastmod>2025-01-21T01:26:21+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/241124isaac_vitron/</loc>
